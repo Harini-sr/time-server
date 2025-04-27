@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Jq4VY7s7LB+5OgN7sY6lNDJaZ9FJSxBcb1HzaoouK+g=",
+  "Source": "time-application",
+  "BasePath": "_content/time-application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
